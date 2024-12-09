@@ -1,8 +1,10 @@
+import Catalog from "./routes/Catalog"
+
 function App() {
  
   return (
-    <h1>Carros Top </h1>
-  )
+    <Catalog/>
+  );
 }
 
 export default App

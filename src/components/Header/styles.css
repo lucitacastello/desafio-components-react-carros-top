@@ -1,0 +1,25 @@
+header {
+    padding: 0 92px;
+  background-color: var(--ct-color-bg-secundary);
+  height: 70px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--ct-color-font-primary);
+}
+
+@media (min-width: 1200px) {
+
+    header {
+        padding: 0 519px;
+
+    }
+  header h1 {
+    font-size: 24px;
+  }
+}

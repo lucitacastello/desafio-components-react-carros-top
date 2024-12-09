@@ -13,3 +13,22 @@
 
   /* --ct-color-font-placeholder: #a7a7a7; */
 }
+
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins";
+}
+
+html,
+body {
+  background-color: var(--ct-color-bg-primary);
+}
+
+.ct-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
