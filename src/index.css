@@ -1,3 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
 :root {
- 
+  /* variáveis para as cores */
+  --ct-color-bg-primary: #fff;
+  --ct-color-bg-secundary: #3c9af0;
+  --ct-color-bg-tertiary: #c8c8c8;
+  /* --ct-color-bg-quartenary: #ededed; */
+
+  --ct-color-font-primary: #fff;
+  --ct-color-font-secundary: #5e5e5e;
+  --ct-color-font-tertiary: #3c9af0;
+
+  /* --ct-color-font-placeholder: #a7a7a7; */
 }
