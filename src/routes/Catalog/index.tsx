@@ -3,6 +3,7 @@ import './styles.css'
 import Header from '../../components/Header';
 import Card from '../../components/Card';
 import CardComment from '../../components/CardComment';
+import Footer from '../../components/Footer';
 
 export default function Catalog() {
     return (
@@ -27,7 +28,7 @@ export default function Catalog() {
                     </div>
 
                     <div>
-                        footer
+                       <Footer/>
                     </div>
                 </section>
             </main>
