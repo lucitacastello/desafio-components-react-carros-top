@@ -1,5 +1,5 @@
 header {
-    padding: 0 92px;
+  padding: 0 92px;
   background-color: var(--ct-color-bg-secundary);
   height: 70px;
   display: flex;
@@ -14,11 +14,9 @@ header h1 {
 }
 
 @media (min-width: 1200px) {
-
-    header {
-        padding: 0 519px;
-
-    }
+  header {
+    padding: 0 519px;
+  }
   header h1 {
     font-size: 24px;
   }

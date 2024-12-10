@@ -1,5 +1,5 @@
 .ct-card {
-    /* width: 280px; */
+  /* width: 280px; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -15,14 +15,13 @@
 }
 
 .ct-card p {
-    color: var( --ct-color-font-secundary);
+  color: var(--ct-color-font-secundary);
   font-size: 16px;
   font-weight: 700;
 }
 
 @media (min-width: 1200px) {
-
-    /* .ct-card {
+  /* .ct-card {
         width: 746px;
 
     } */
